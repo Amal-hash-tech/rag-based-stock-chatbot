@@ -1,4 +1,4 @@
-\# 🤖 RAG-Based Stock Exchange Chatbot
+# 🤖 RAG-Based Stock Exchange Chatbot
 
 
 
@@ -14,7 +14,7 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot for stock market analysi
 
 
 
-\## 🎯 Features
+## 🎯 Features
 
 
 
@@ -34,11 +34,11 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot for stock market analysi
 
 
 
-\## 🚀 Quick Start
+## 🚀 Quick Start
 
 
 
-\### Prerequisites
+### Prerequisites
 
 
 
@@ -48,7 +48,7 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot for stock market analysi
 
 
 
-\### Installation
+### Installation
 
 
 
@@ -98,17 +98,17 @@ python rag\_stock\_chatbot.py
 
 
 
-\## 📖 Usage
+## 📖 Usage
 
 
 
-\### Option 1: Quick Start with Sample Data
+### Option 1: Quick Start with Sample Data
 
 ```bash
 
 python rag\_stock\_chatbot.py
 
-\# Choose option 1 when prompted
+# Choose option 1 when prompted
 
 ```
 
@@ -130,15 +130,15 @@ The chatbot will load built-in stock market knowledge covering:
 
 
 
-\### Option 2: Use Your Own Documents
+### Option 2: Use Your Own Documents
 
 ```bash
 
 python rag\_stock\_chatbot.py
 
-\# Choose option 2 when prompted
+# Choose option 2 when prompted
 
-\# Enter the path to your documents folder
+# Enter the path to your documents folder
 
 ```
 
@@ -152,7 +152,7 @@ Supported file formats:
 
 
 
-\### Example Conversation
+### Example Conversation
 
 
 
@@ -180,7 +180,7 @@ Industrial Average - the DJIA tracks only 30 large companies...
 
 
 
-\### Special Commands
+### Special Commands
 
 
 
@@ -196,7 +196,7 @@ While chatting, you can use these commands:
 
 
 
-\## 🏗️ Architecture
+## 🏗️ Architecture
 
 
 
@@ -268,7 +268,7 @@ While chatting, you can use these commands:
 
 
 
-\## 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 
 
@@ -284,7 +284,7 @@ While chatting, you can use these commands:
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -310,11 +310,11 @@ rag-stock-chatbot/
 
 
 
-\## ⚙️ Configuration
+## ⚙️ Configuration
 
 
 
-\### Customizing Retrieval
+### Customizing Retrieval
 
 
 
@@ -362,7 +362,7 @@ chat\_history = WindowChatMessageHistory(k=20)  # Keep 20 messages
 
 
 
-\## 🔒 Security \& Privacy
+## 🔒 Security \& Privacy
 
 
 
@@ -378,11 +378,11 @@ chat\_history = WindowChatMessageHistory(k=20)  # Keep 20 messages
 
 
 
-\## 🐛 Troubleshooting
+## 🐛 Troubleshooting
 
 
 
-\### Common Issues
+### Common Issues
 
 
 
@@ -422,7 +422,7 @@ pip install sentence-transformers
 
 
 
-\## 📊 Performance
+## 📊 Performance
 
 
 
@@ -436,7 +436,7 @@ pip install sentence-transformers
 
 
 
-\## 🤝 Contributing
+## 🤝 Contributing
 
 
 
@@ -456,7 +456,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 
-\## 📝 License
+## 📝 License
 
 
 
@@ -464,7 +464,7 @@ This project is licensed under the MIT License - see the \[LICENSE](LICENSE) fil
 
 
 
-\## 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 
 
@@ -478,7 +478,7 @@ This project is licensed under the MIT License - see the \[LICENSE](LICENSE) fil
 
 
 
-\## 📧 Contact
+## 📧 Contact
 
 
 
@@ -490,7 +490,7 @@ Project Link: \[https://github.com/YOUR\_USERNAME/rag-stock-chatbot](https://git
 
 
 
-\## 🗺️ Roadmap
+## 🗺️ Roadmap
 
 
 
